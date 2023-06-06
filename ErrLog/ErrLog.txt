@@ -1,0 +1,40 @@
+ Timer : 2023-06-06 2:54:22 AM
+出现应用程序未处理的异常：2023-06-06 2:54:22 AM
+Application UnhandledException:Font 'Segoe UI Symbol' cannot be found.;
+堆栈信息:   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
+   at System.Drawing.FontFamily..ctor(String name)
+   at _8BitDoFirmwareUpdater.View.HomeView.initGamepadAndRRtispLog()
+   at _8BitDoFirmwareUpdater.View.HomeView..ctor()
+   at _8BitDoFirmwareUpdater.View.HomeController..ctor()
+   at _8BitDoFirmwareUpdater.Program.Main()
+---------------------------------------------------------
+ Timer : 2023-06-06 2:54:35 AM
+出现应用程序未处理的异常：2023-06-06 2:54:35 AM
+Application UnhandledException:Font 'Segoe UI Symbol' cannot be found.;
+堆栈信息:   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
+   at System.Drawing.FontFamily..ctor(String name)
+   at _8BitDoFirmwareUpdater.View.HomeView.initGamepadAndRRtispLog()
+   at _8BitDoFirmwareUpdater.View.HomeView..ctor()
+   at _8BitDoFirmwareUpdater.View.HomeController..ctor()
+   at _8BitDoFirmwareUpdater.Program.Main()
+---------------------------------------------------------
+ Timer : 2023-06-05 9:56:42 PM
+出现应用程序未处理的异常：2023-06-05 9:56:42 PM
+Application UnhandledException:Font 'Segoe UI Symbol' cannot be found.;
+堆栈信息:   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
+   at System.Drawing.FontFamily..ctor(String name)
+   at _8BitDoFirmwareUpdater.View.HomeView.initGamepadAndRRtispLog()
+   at _8BitDoFirmwareUpdater.View.HomeView..ctor()
+   at _8BitDoFirmwareUpdater.View.HomeController..ctor()
+   at _8BitDoFirmwareUpdater.Program.Main()
+---------------------------------------------------------
+ Timer : 2023-06-05 9:56:50 PM
+出现应用程序未处理的异常：2023-06-05 9:56:50 PM
+Application UnhandledException:Font 'Segoe UI Symbol' cannot be found.;
+堆栈信息:   at System.Drawing.FontFamily.CreateFontFamily(String name, FontCollection fontCollection)
+   at System.Drawing.FontFamily..ctor(String name)
+   at _8BitDoFirmwareUpdater.View.HomeView.initGamepadAndRRtispLog()
+   at _8BitDoFirmwareUpdater.View.HomeView..ctor()
+   at _8BitDoFirmwareUpdater.View.HomeController..ctor()
+   at _8BitDoFirmwareUpdater.Program.Main()
+---------------------------------------------------------

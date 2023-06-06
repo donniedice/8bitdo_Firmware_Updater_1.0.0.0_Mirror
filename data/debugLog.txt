@@ -1,0 +1,288 @@
+2023-06-05:21:57:33  ------------------------------------appVersion: 240
+2023-06-05:21:57:46  find device: Vid:2dc8 Pid:6007 Version:1.02 Beta:0 IsChangeBoot:True
+2023-06-05:21:57:50  startUpdateFirmware: gamepad: Vid:2dc8 Pid:6007 Version:1.02 Beta:0 IsChangeBoot:True to---> firmware type: 41 version:1.03 beta: fileSize:98844
+2023-06-05:21:57:50  Prepare to update
+2023-06-05:21:57:50  Download firmware result:True
+2023-06-05:21:57:50  jump boot device
+2023-06-05:21:57:50  SwitchMode to->boot
+2023-06-05:21:57:50  send jump boot CMD vid: 2dc8 pid:6007 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6002 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6003 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:2100 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:2101 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:901a error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3100 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3104 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3010 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6006 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3105 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3107 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3109 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3013 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3012 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6007 success
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3011 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:5112 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:5111 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6001 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:6000 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3016 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3015 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3017 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:5006 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:3103 error
+2023-06-05:21:57:50  send jump BOOT CMD vid: 2dc8 pid:9029 error
+2023-06-05:21:57:50  macMode to->boot
+2023-06-05:21:57:51  jump boot device
+2023-06-05:21:57:51  SwitchMode to->boot
+2023-06-05:21:57:51  send jump boot CMD vid: 2dc8 pid:6007 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6002 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6003 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:2100 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:2101 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:901a error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3100 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3104 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3010 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6006 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3105 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3107 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3109 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3013 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3012 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6007 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3011 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:5112 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:5111 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6001 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:6000 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3016 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3015 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3017 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:5006 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:3103 error
+2023-06-05:21:57:51  send jump BOOT CMD vid: 2dc8 pid:9029 error
+2023-06-05:21:57:51  macMode to->boot
+2023-06-05:21:57:53  Download firmware result:True
+2023-06-05:21:57:53  startUpdateFirmwareing
+2023-06-05:21:57:53  execute update firmwate library
+2023-06-05:21:57:53  start 
+2023-06-05:21:58:01  updateProgress : 1
+2023-06-05:21:58:01  updateProgress : 2
+2023-06-05:21:58:01  updateProgress : 3
+2023-06-05:21:58:02  updateProgress : 4
+2023-06-05:21:58:02  updateProgress : 5
+2023-06-05:21:58:02  updateProgress : 6
+2023-06-05:21:58:02  updateProgress : 7
+2023-06-05:21:58:02  updateProgress : 8
+2023-06-05:21:58:03  updateProgress : 9
+2023-06-05:21:58:03  updateProgress : 10
+2023-06-05:21:58:03  updateProgress : 11
+2023-06-05:21:58:03  updateProgress : 12
+2023-06-05:21:58:03  updateProgress : 13
+2023-06-05:21:58:04  updateProgress : 14
+2023-06-05:21:58:04  updateProgress : 15
+2023-06-05:21:58:04  updateProgress : 16
+2023-06-05:21:58:04  updateProgress : 17
+2023-06-05:21:58:04  updateProgress : 18
+2023-06-05:21:58:05  updateProgress : 19
+2023-06-05:21:58:05  updateProgress : 20
+2023-06-05:21:58:05  updateProgress : 21
+2023-06-05:21:58:05  updateProgress : 22
+2023-06-05:21:58:05  updateProgress : 23
+2023-06-05:21:58:05  updateProgress : 24
+2023-06-05:21:58:06  updateProgress : 25
+2023-06-05:21:58:06  updateProgress : 26
+2023-06-05:21:58:06  updateProgress : 27
+2023-06-05:21:58:06  updateProgress : 28
+2023-06-05:21:58:06  updateProgress : 29
+2023-06-05:21:58:07  updateProgress : 30
+2023-06-05:21:58:07  updateProgress : 31
+2023-06-05:21:58:07  updateProgress : 32
+2023-06-05:21:58:07  updateProgress : 33
+2023-06-05:21:58:16  updateProgress : 34
+2023-06-05:21:58:16  updateProgress : 35
+2023-06-05:21:58:17  updateProgress : 36
+2023-06-05:21:58:17  updateProgress : 37
+2023-06-05:21:58:17  updateProgress : 38
+2023-06-05:21:58:17  updateProgress : 39
+2023-06-05:21:58:17  updateProgress : 40
+2023-06-05:21:58:18  updateProgress : 41
+2023-06-05:21:58:18  updateProgress : 42
+2023-06-05:21:58:18  updateProgress : 43
+2023-06-05:21:58:18  updateProgress : 44
+2023-06-05:21:58:18  updateProgress : 45
+2023-06-05:21:58:19  updateProgress : 46
+2023-06-05:21:58:19  updateProgress : 47
+2023-06-05:21:58:19  updateProgress : 48
+2023-06-05:21:58:19  updateProgress : 49
+2023-06-05:21:58:19  updateProgress : 50
+2023-06-05:21:58:19  updateProgress : 51
+2023-06-05:21:58:20  updateProgress : 52
+2023-06-05:21:58:20  updateProgress : 53
+2023-06-05:21:58:20  updateProgress : 54
+2023-06-05:21:58:20  updateProgress : 55
+2023-06-05:21:58:20  updateProgress : 56
+2023-06-05:21:58:21  updateProgress : 57
+2023-06-05:21:58:21  updateProgress : 58
+2023-06-05:21:58:21  updateProgress : 59
+2023-06-05:21:58:21  updateProgress : 60
+2023-06-05:21:58:21  updateProgress : 61
+2023-06-05:21:58:22  updateProgress : 62
+2023-06-05:21:58:22  updateProgress : 63
+2023-06-05:21:58:22  updateProgress : 64
+2023-06-05:21:58:22  updateProgress : 65
+2023-06-05:21:58:22  updateProgress : 66
+2023-06-05:21:58:23  updateProgress : 67
+2023-06-05:21:58:23  updateProgress : 68
+2023-06-05:21:58:23  updateProgress : 69
+2023-06-05:21:58:23  updateProgress : 70
+2023-06-05:21:58:23  updateProgress : 71
+2023-06-05:21:58:23  updateProgress : 72
+2023-06-05:21:58:24  updateProgress : 73
+2023-06-05:21:58:24  updateProgress : 74
+2023-06-05:21:58:24  updateProgress : 75
+2023-06-05:21:58:24  updateProgress : 76
+2023-06-05:21:58:25  updateProgress : 77
+2023-06-05:21:58:25  updateProgress : 78
+2023-06-05:21:58:25  updateProgress : 79
+2023-06-05:21:58:25  updateProgress : 80
+2023-06-05:21:58:25  updateProgress : 81
+2023-06-05:21:58:25  updateProgress : 82
+2023-06-05:21:58:26  updateProgress : 83
+2023-06-05:21:58:26  updateProgress : 84
+2023-06-05:21:58:26  updateProgress : 85
+2023-06-05:21:58:26  updateProgress : 86
+2023-06-05:21:58:26  updateProgress : 87
+2023-06-05:21:58:31  updateProgress : 88
+2023-06-05:21:58:31  updateProgress : 89
+2023-06-05:21:58:31  updateProgress : 90
+2023-06-05:21:58:31  updateProgress : 91
+2023-06-05:21:58:31  updateProgress : 92
+2023-06-05:21:58:32  updateProgress : 93
+2023-06-05:21:58:32  updateProgress : 94
+2023-06-05:21:58:32  updateProgress : 95
+2023-06-05:21:58:32  updateProgress : 96
+2023-06-05:21:58:32  updateProgress : 97
+2023-06-05:21:58:33  updateProgress : 98
+2023-06-05:21:58:33  updateProgress : 99
+2023-06-05:21:58:33  end 
+2023-06-05:21:58:33  update end
+6-05:21:58:33  updateProgress : 100
+2023-06-05:21:58:33  update end
+2023-06-05:21:58:37  Update complete - goHome
+2023-06-05:21:58:54  find device: Vid:2dc8 Pid:9000 Version:4.1 Beta:0 IsChangeBoot:False
+2023-06-05:21:59:05  startUpdateFirmware: gamepad: Vid:2dc8 Pid:9000 Version:4.1 Beta:0 IsChangeBoot:False to---> firmware type: 1 version:4.1 beta: fileSize:49180
+2023-06-05:22:00:03  startUpdateFirmware: gamepad: Vid:2dc8 Pid:9000 Version:4.1 Beta:0 IsChangeBoot:False to---> firmware type: 1 version:4.1 beta: fileSize:49180
+2023-06-05:22:00:03  find boot device
+2023-06-05:22:01:17  Download firmware result:True
+2023-06-05:22:01:17  startUpdateFirmwareing
+2023-06-05:22:01:17  updateProgress : 0
+2023-06-05:22:01:17  execute update firmwate library
+2023-06-05:22:01:17  start 
+2023-06-05:22:01:20  updateProgress : -1
+2023-06-05:22:01:20  updateProgress : 0
+2023-06-05:22:01:20  updateProgress : 1
+2023-06-05:22:01:21  updateProgress : 2
+2023-06-05:22:01:21  updateProgress : 3
+2023-06-05:22:01:22  updateProgress : 4
+2023-06-05:22:01:22  updateProgress : 5
+2023-06-05:22:01:23  updateProgress : 6
+2023-06-05:22:01:23  updateProgress : 7
+2023-06-05:22:01:24  updateProgress : 8
+2023-06-05:22:01:24  updateProgress : 9
+2023-06-05:22:01:25  updateProgress : 10
+2023-06-05:22:01:25  updateProgress : 11
+2023-06-05:22:01:26  updateProgress : 12
+2023-06-05:22:01:26  updateProgress : 13
+2023-06-05:22:01:27  updateProgress : 14
+2023-06-05:22:01:27  updateProgress : 15
+2023-06-05:22:01:28  updateProgress : 16
+2023-06-05:22:01:28  updateProgress : 17
+2023-06-05:22:01:29  updateProgress : 18
+2023-06-05:22:01:29  updateProgress : 19
+2023-06-05:22:01:30  updateProgress : 20
+2023-06-05:22:01:30  updateProgress : 21
+2023-06-05:22:01:31  updateProgress : 22
+2023-06-05:22:01:31  updateProgress : 23
+2023-06-05:22:01:32  updateProgress : 24
+2023-06-05:22:01:32  updateProgress : 25
+2023-06-05:22:01:33  updateProgress : 26
+2023-06-05:22:01:33  updateProgress : 27
+2023-06-05:22:01:34  updateProgress : 28
+2023-06-05:22:01:34  updateProgress : 29
+2023-06-05:22:01:35  updateProgress : 30
+2023-06-05:22:01:35  updateProgress : 31
+2023-06-05:22:01:36  updateProgress : 32
+2023-06-05:22:01:36  updateProgress : 33
+2023-06-05:22:01:37  updateProgress : 34
+2023-06-05:22:01:37  updateProgress : 35
+2023-06-05:22:01:38  updateProgress : 36
+2023-06-05:22:01:38  updateProgress : 37
+2023-06-05:22:01:39  updateProgress : 38
+2023-06-05:22:01:39  updateProgress : 39
+2023-06-05:22:01:40  updateProgress : 40
+2023-06-05:22:01:40  updateProgress : 41
+2023-06-05:22:01:41  updateProgress : 42
+2023-06-05:22:01:41  updateProgress : 43
+2023-06-05:22:01:42  updateProgress : 44
+2023-06-05:22:01:42  updateProgress : 45
+2023-06-05:22:01:43  updateProgress : 46
+2023-06-05:22:01:43  updateProgress : 47
+2023-06-05:22:01:44  updateProgress : 48
+2023-06-05:22:01:44  updateProgress : 49
+2023-06-05:22:01:45  updateProgress : 50
+2023-06-05:22:01:45  updateProgress : 51
+2023-06-05:22:01:46  updateProgress : 52
+2023-06-05:22:01:46  updateProgress : 53
+2023-06-05:22:01:47  updateProgress : 54
+2023-06-05:22:01:47  updateProgress : 55
+2023-06-05:22:01:48  updateProgress : 56
+2023-06-05:22:01:48  updateProgress : 57
+2023-06-05:22:01:49  updateProgress : 58
+2023-06-05:22:01:49  updateProgress : 59
+2023-06-05:22:01:49  updateProgress : 60
+2023-06-05:22:01:50  updateProgress : 61
+2023-06-05:22:01:50  updateProgress : 62
+2023-06-05:22:01:51  updateProgress : 63
+2023-06-05:22:01:51  updateProgress : 64
+2023-06-05:22:01:52  updateProgress : 65
+2023-06-05:22:01:52  updateProgress : 66
+2023-06-05:22:01:53  updateProgress : 67
+2023-06-05:22:01:53  updateProgress : 68
+2023-06-05:22:01:54  updateProgress : 69
+2023-06-05:22:01:54  updateProgress : 70
+2023-06-05:22:01:55  updateProgress : 71
+2023-06-05:22:01:55  updateProgress : 72
+2023-06-05:22:01:56  updateProgress : 73
+2023-06-05:22:01:56  updateProgress : 74
+2023-06-05:22:01:57  updateProgress : 75
+2023-06-05:22:01:57  updateProgress : 76
+2023-06-05:22:01:58  updateProgress : 77
+2023-06-05:22:01:58  updateProgress : 78
+2023-06-05:22:01:59  updateProgress : 79
+2023-06-05:22:01:59  updateProgress : 80
+2023-06-05:22:02:00  updateProgress : 81
+2023-06-05:22:02:00  updateProgress : 82
+2023-06-05:22:02:01  updateProgress : 83
+2023-06-05:22:02:01  updateProgress : 84
+2023-06-05:22:02:02  updateProgress : 85
+2023-06-05:22:02:02  updateProgress : 86
+2023-06-05:22:02:03  updateProgress : 87
+2023-06-05:22:02:03  updateProgress : 88
+2023-06-05:22:02:04  updateProgress : 89
+2023-06-05:22:02:04  updateProgress : 90
+2023-06-05:22:02:05  updateProgress : 91
+2023-06-05:22:02:05  updateProgress : 92
+2023-06-05:22:02:06  updateProgress : 93
+2023-06-05:22:02:06  updateProgress : 94
+2023-06-05:22:02:07  updateProgress : 95
+2023-06-05:22:02:07  updateProgress : 96
+2023-06-05:22:02:08  updateProgress : 97
+2023-06-05:22:02:08  updateProgress : 98
+2023-06-05:22:02:09  updateProgress : 99
+2023-06-05:22:02:09  updateProgress : 100
+2023-06-05:22:02:09  end 
+2023-06-05:22:02:09  update end
+2023-06-05:22:02:11  find device: Vid:2dc8 Pid:9000 Version:4.1 Beta:0 IsChangeBoot:False
+2023-06-05:22:03:09  close app
